@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "Juice Shop Threat Model"
+    "title": "Juice Shop Threat Model",
+    "description": "Foobar"
   },
   "detail": {
     "contributors": [],
@@ -9,6 +10,11 @@
         "title": "Test",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "Test2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
